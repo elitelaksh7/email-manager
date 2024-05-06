@@ -20,7 +20,6 @@ class createEmailLabel(verifyUser,user):
         print(self.groupName,": ",createEmailLabel.reqMails)                                     
         
 
-""" if __name__ == "__main__": """
 createLabel1=createEmailLabel("Personal Pronouns")
 createLabel1.regroupMailsAndCreateLabel("your")
 
